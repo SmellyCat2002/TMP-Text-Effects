@@ -89,7 +89,6 @@ TextEffects/
 ├── README.md                 # 本文件
 ├── README_TextEffect.md      # 详细技术文档
 ├── TMPEffectText.cs          # 主组件
-├── TMPEffectTextDemo.cs      # 使用示例
 ├── TextEffectSystem.cs       # 特效标签系统
 └── TextTag.cs                # 数据结构
 ```
